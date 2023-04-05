@@ -1,4 +1,4 @@
-## Oiii eu sou o Marcio Junior, Developer Full Stack a +/-  1ANO !! Buscando sempre novos desafios e aprendizados.
+## Hi, I'm Marcio Junior, Full Stack Developer for +/- 1YEAR!! Always looking for new challenges and learning.
 <div align="center">
   <a href="https://github.com/marciojuniors2">
   <img height="180em" ![Anurag's github stats] src="https://github-readme-stats.vercel.app/api?username=marciojuniors2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
