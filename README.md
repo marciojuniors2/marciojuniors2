@@ -1,7 +1,7 @@
 ## Hi, I'm Marcio Junior, Full Stack Developer for +/- 2YEAR!! Always looking for new challenges and learning.
 <div align="center">
   <a href="https://github.com/marciojuniors2">
-  <img height="180em" ![Anurag's github stats] src="https://github-readme-stats.vercel.app/api?username=marciojuniors2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=discussions_started&hide=prs,issues"/>
+  <img height="180em" ![Anurag's github stats] src="https://github-readme-stats.vercel.app/api?username=marciojuniors2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=discussions_started"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciojuniors2&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
